@@ -1,0 +1,52 @@
+body{
+
+    background-color: rgb(243, 169, 169);
+    margin: 0px;
+    padding: 0px;
+}
+
+.topnav{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+a{
+    display: inline;
+    padding: 25px;
+}
+.topnav{
+    background-color: antiquewhite;
+}
+h2{
+    background-color:whitesmoke;
+}
+h1{
+    font-style: oblique;
+    font-size: 0.75in;
+}
+marquee{
+    font-size: 0.65in;
+}
+li{
+    font-size: x-large;
+    display: inline;
+    padding: 25px;
+}
+nav{
+    background-color: aquamarine;
+    height:normal;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.desc{
+    font-style:oblique;
+    font-size: 1cm;
+    
+}
+#ga{
+
+    display: inline;
+    padding: 25px;
+}
