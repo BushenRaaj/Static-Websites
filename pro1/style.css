@@ -4,9 +4,20 @@ body{
     margin: 0px;
     padding: 0px;
 }
+.logo{
+    float: left;
+}
 
 .topnav{
     text-decoration: none;
+    float:right;
+}
+.nav1{
+    background-color: aquamarine;
+    height:normal;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
 }
 h1{
     text-align: center;
@@ -15,9 +26,7 @@ a{
     display: inline;
     padding: 25px;
 }
-.topnav{
-    background-color: antiquewhite;
-}
+
 h2{
     background-color:whitesmoke;
 }
@@ -33,13 +42,7 @@ li{
     display: inline;
     padding: 25px;
 }
-nav{
-    background-color: aquamarine;
-    height:normal;
-    width: 100%;
-    margin: 0px;
-    padding: 0px;
-}
+
 .desc{
     font-style:oblique;
     font-size: 1cm;
